@@ -7,7 +7,7 @@ This project will be used to house my submission for Coursera's Data Science Cap
 The goal of this project is to:
 
 1. Discern neighborhoods in Toronto, CA that are similar to a given target neighborhood.
-2. A project of choice. (README will be updated to reflect)
+2. Use similar neighborhood information to analyze student success on a neighborhood level.
 
 ## Tools
 
